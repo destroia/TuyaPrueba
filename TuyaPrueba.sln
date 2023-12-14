@@ -29,11 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityResponse", "EntityRes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestingIntegration", "TestingIntegration\TestingIntegration.csproj", "{06F5232A-D0FD-4DFD-AD09-6C7C034C4B8D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts SQL", "Scripts SQL", "{C16F2245-B2A0-4CF4-B87C-E0A02CAECABF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts SQL", "Scripts SQL", "{144D3C4B-1AE1-48E7-9927-2AA334561610}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\OneDrive\Escritorio\Tuya\Create DB and Tables Tuya.sql = ..\..\..\OneDrive\Escritorio\Tuya\Create DB and Tables Tuya.sql
-		..\..\..\OneDrive\Escritorio\Tuya\SP_Crud_Customer.sql = ..\..\..\OneDrive\Escritorio\Tuya\SP_Crud_Customer.sql
-		..\..\..\OneDrive\Escritorio\Tuya\SP_Crud_Order.sql = ..\..\..\OneDrive\Escritorio\Tuya\SP_Crud_Order.sql
+		Create DB and Tables Tuya.sql = Create DB and Tables Tuya.sql
+		SP_Crud_Customer.sql = SP_Crud_Customer.sql
+		SP_Crud_Order.sql = SP_Crud_Order.sql
 	EndProjectSection
 EndProject
 Global
